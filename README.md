@@ -24,3 +24,11 @@ This project demonstrates **cross-browser testing** using **Selenium**, **Seleni
 - **Selenoid**: For managing browsers in containers and executing tests in a scalable, distributed environment.
 - **Docker**: To run and manage Selenoid containers.
 - **NUnit**: For structuring and running the test cases.
+
+## Key Features
+
+- **Cross-browser testing** with Chrome, Firefox, and other supported browsers.
+- **Parallel execution** of test cases using Selenium Grid and Selenoid for faster test cycles.
+- **Containerized testing** environments via Selenoid, allowing for scalable, isolated test sessions.
+- **Remote test execution** on multiple nodes to cover various platforms and browsers.
+- **Real-time video recording** of test executions for better debugging and reporting.
