@@ -13,3 +13,8 @@
 
 ### This is a test project for Front-End Test Automation July 2024 Course @ SoftUni
 ---
+## Overview
+
+This project demonstrates **cross-browser testing** using **Selenium**, **Selenium Grid**, and **Selenoid** to execute automated tests across multiple browsers and platforms. It is designed to showcase techniques for running distributed tests in parallel, ensuring web applications behave consistently across different environments.
+
+---
