@@ -47,4 +47,10 @@ This project demonstrates **cross-browser testing** using **Selenium**, **Seleni
 
 4. **Headless Browser Testing**  
    Executes tests in headless mode using Selenoid, allowing for faster test execution without opening a GUI browser.
+   
+## Set Up Selenium Grid
+Follow the [Selenium Grid documentation](https://www.selenium.dev/documentation/grid/) to set up a grid for distributed testing.
+
+## Set Up Selenoid
+Follow the [Selenoid installation guide](https://aerokube.com/selenoid/latest/) to install and configure Selenoid with Docker.
 
