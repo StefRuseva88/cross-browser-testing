@@ -36,17 +36,13 @@ This project demonstrates **cross-browser testing** using **Selenium**, **Seleni
 
 ## Test Scenarios
 
-1. **Browser Automation**  
-   Tests basic browser interactions such as navigating to a page, clicking buttons, filling forms, and verifying page elements.
+- **Browser Automation:** Tests basic browser interactions such as navigating to a page, clicking buttons, filling forms, and verifying page elements.
    
-2. **Cross-browser Compatibility**  
-   Verifies that the web application behaves the same way on different browsers (e.g., Chrome, Firefox, Opera).
+- **Cross-browser Compatibility:** Verifies that the web application behaves the same way on different browsers (e.g., Chrome, Firefox, Opera).
    
-3. **Parallel Test Execution**  
-   Uses Selenium Grid to run multiple tests in parallel across different browser versions and environments.
+- **Parallel Test Execution:** Uses Selenium Grid to run multiple tests in parallel across different browser versions and environments.
 
-4. **Headless Browser Testing**  
-   Executes tests in headless mode using Selenoid, allowing for faster test execution without opening a GUI browser.
+- **Headless Browser Testing:** Executes tests in headless mode using Selenoid, allowing for faster test execution without opening a GUI browser.
    
 ## Set Up Selenium Grid
 Follow the [Selenium Grid documentation](https://www.selenium.dev/documentation/grid/) to set up a grid for distributed testing.
