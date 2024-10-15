@@ -36,7 +36,7 @@ This project demonstrates **cross-browser testing** using **Selenium**, **Seleni
 
 ## Test Scenarios
 
-1. **Basic Browser Automation**  
+1. **Browser Automation**  
    Tests basic browser interactions such as navigating to a page, clicking buttons, filling forms, and verifying page elements.
    
 2. **Cross-browser Compatibility**  
