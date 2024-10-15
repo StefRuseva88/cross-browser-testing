@@ -18,3 +18,11 @@
 This project demonstrates **cross-browser testing** using **Selenium**, **Selenium Grid**, and **Selenoid** to execute automated tests across multiple browsers and platforms. It is designed to showcase techniques for running distributed tests in parallel, ensuring web applications behave consistently across different environments.
 
 ---
+
+## Tools and Technologies Used
+
+- **Selenium**: For automating web browser interactions and performing functional tests.
+- **Selenium Grid**: To distribute and run tests across multiple machines and browsers simultaneously.
+- **Selenoid**: For managing browsers in containers and executing tests in a scalable, distributed environment.
+- **Docker**: To run and manage Selenoid containers.
+- **NUnit**: For structuring and running the test cases.
