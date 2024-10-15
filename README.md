@@ -32,3 +32,19 @@ This project demonstrates **cross-browser testing** using **Selenium**, **Seleni
 - **Containerized testing** environments via Selenoid, allowing for scalable, isolated test sessions.
 - **Remote test execution** on multiple nodes to cover various platforms and browsers.
 - **Real-time video recording** of test executions for better debugging and reporting.
+
+
+## Test Scenarios
+
+1. **Basic Browser Automation**  
+   Tests basic browser interactions such as navigating to a page, clicking buttons, filling forms, and verifying page elements.
+   
+2. **Cross-browser Compatibility**  
+   Verifies that the web application behaves the same way on different browsers (e.g., Chrome, Firefox, Opera).
+   
+3. **Parallel Test Execution**  
+   Uses Selenium Grid to run multiple tests in parallel across different browser versions and environments.
+
+4. **Headless Browser Testing**  
+   Executes tests in headless mode using Selenoid, allowing for faster test execution without opening a GUI browser.
+
